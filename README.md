@@ -1,19 +1,7 @@
-The Contiki Operating System
-============================
-
-[![Build Status](https://travis-ci.org/contiki-os/contiki.svg?branch=master)](https://travis-ci.org/contiki-os/contiki/branches)
-
-Contiki is an open source operating system that runs on tiny low-power
-microcontrollers and makes it possible to develop applications that
-make efficient use of the hardware while providing standardized
-low-power wireless communication for a range of hardware platforms.
-
-Contiki is used in numerous commercial and non-commercial systems,
-such as city sound monitoring, street lights, networked electrical
-power meters, industrial monitoring, radiation monitoring,
-construction site monitoring, alarm systems, remote house monitoring,
-and so on.
-
-For more information, see the Contiki website:
-
-[http://contiki-os.org](http://contiki-os.org)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contiki操作系统</font></font></h1><a id="user-content-the-contiki-operating-system" class="anchor" aria-label="永久链接：Contiki 操作系统" href="#the-contiki-operating-system"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://travis-ci.org/contiki-os/contiki/branches" rel="nofollow"><img src="https://camo.githubusercontent.com/83fca0596a825f9c598452c46d68a5e95140ce840f25cd15f0777e1bae1c44f4/68747470733a2f2f7472617669732d63692e6f72672f636f6e74696b692d6f732f636f6e74696b692e7376673f6272616e63683d6d6173746572" alt="构建状态" data-canonical-src="https://travis-ci.org/contiki-os/contiki.svg?branch=master" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contiki 是一个运行在微型低功耗微控制器上的开源操作系统，可以开发高效利用硬件的应用程序，同时为一系列硬件平台提供标准化的低功耗无线通信。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contiki 用于众多商业和非商业系统，例如城市声音监控、路灯、联网电力表、工业监控、辐射监控、建筑工地监控、报警系统、远程房屋监控等等。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关详细信息，请参阅 Contiki 网站：</font></font></p>
+<p dir="auto"><a href="http://contiki-os.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://contiki-os.org</font></font></a></p>
+</article></div>
